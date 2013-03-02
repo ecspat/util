@@ -1,0 +1,12 @@
+{
+    "name": "ecspat-util",
+    "version": "0.1.0",
+    "author": "Max Schaefer <schaefer@ntu.edu.sg>",
+    "description": "Utility modules for Ecspat",
+    "dependencies" : {
+	"esprima": "*",
+	"escodegen": "*",
+	"htmlparser": "*"
+    },
+    "license": "Eclipse"
+}
